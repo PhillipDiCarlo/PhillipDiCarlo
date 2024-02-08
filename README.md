@@ -38,8 +38,6 @@
 
 </p>
 
-* 📖 Pursuing PhD in Data Science & Engineering @ [The University of Tennessee](https://bredesencenter.utk.edu/the-data-science-and-engineering-phd/). 
-
 * 🤖 Implentnting AI into everyday work and life for better effieciency.
 
 * 💻 Currently building Unity tools or developing Discord bots. 
@@ -95,7 +93,6 @@
 
 </td></tr> </table> -->
 
-<details>
 <br>
 My Github Stats
 
@@ -106,4 +103,3 @@ My Github Stats
 
 
 <br>
-</details>
